@@ -21,7 +21,7 @@ using UnityEngine.UI;
 
 namespace UnrestrictedWeapons
 {
-    [BepInPlugin("com.nikkorap.justj.UnrestrictedWeapons_1.6.0", "Unrestricted Weapons", "1.6.0")]
+    [BepInPlugin("com.nikkorap.justj.spathiphyllum.RestrictedUnrestrictedWeapons_0.1.0", "Unrestricted Weapons", "0.1.0")]
     public class Plugin : BaseUnityPlugin
     {
         public static Plugin Instance { get; private set; }
